@@ -39,5 +39,10 @@ export default [
         question: 'How do you add a background color for all <h1> elements?',
         answers: ['all.h1 {background-color:#FFFFFF;}', 'h1.setAll {background-color:#FFFFFF;}', 'h1.all {background-color:#FFFFFF;}', 'h1 {background-color:#FFFFFF;}'],
         correct: 4
+    },
+    {
+        question: 'What is biology?',
+        answers: ['The study of life', 'The human body', 'The study of man in relation to his environment', 'a course in 100 level'],
+        correct: 1
     }
 ]
